@@ -12,8 +12,14 @@ int main(void)
 	printf("Ç≤ÇﬂÇÒÇ»Ç≥Ç¢ÅB\n");
 	printf("Ç≤ÇﬂÇÒÇ»Ç≥Ç¢ÅB\n");
 
+
 	int num = 5;
 	printf("%d\n", num);
+
+	for (int i = 0; i < 5; i++)
+	{
+		printf("aaaaaa\n");
+	}
 
 	return 0;
 }

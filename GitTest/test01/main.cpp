@@ -2,8 +2,6 @@
 
 int main(void)
 {
-	int num = 5;
-	printf("%d\n", num);
 	printf("Hello Git World!!\n");
 
 	printf("ごめんなさい。\n");
@@ -13,6 +11,9 @@ int main(void)
 	printf("ごめんなさい。\n");
 	printf("ごめんなさい。\n");
 	printf("ごめんなさい。\n");
+
+	int num = 5;
+	printf("%d\n", num);
 
 	return 0;
 }
